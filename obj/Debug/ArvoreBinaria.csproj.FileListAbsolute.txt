@@ -1,0 +1,8 @@
+C:\Users\rosan\source\repos\ArvoreBinaria\ArvoreBinaria\bin\Debug\ArvoreBinaria.exe.config
+C:\Users\rosan\source\repos\ArvoreBinaria\ArvoreBinaria\bin\Debug\ArvoreBinaria.exe
+C:\Users\rosan\source\repos\ArvoreBinaria\ArvoreBinaria\bin\Debug\ArvoreBinaria.pdb
+C:\Users\rosan\source\repos\ArvoreBinaria\ArvoreBinaria\obj\Debug\ArvoreBinaria.csproj.AssemblyReference.cache
+C:\Users\rosan\source\repos\ArvoreBinaria\ArvoreBinaria\obj\Debug\ArvoreBinaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\rosan\source\repos\ArvoreBinaria\ArvoreBinaria\obj\Debug\ArvoreBinaria.csproj.CoreCompileInputs.cache
+C:\Users\rosan\source\repos\ArvoreBinaria\ArvoreBinaria\obj\Debug\ArvoreBinaria.exe
+C:\Users\rosan\source\repos\ArvoreBinaria\ArvoreBinaria\obj\Debug\ArvoreBinaria.pdb
